@@ -1,0 +1,7 @@
+spotify-this-song,"I Want it That Way"
+movie-this,"My favorite movie is Matrix"
+my-tweets,"The last 20 tweets of your twitter"
+my-tweets,"Here are your tweets!! GAHAHAHA!"
+movie-this,"Jurassic Park"
+spotify-this-song,"Bad at love"
+
